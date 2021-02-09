@@ -1,3 +1,3 @@
 
 # Continuous-Delivery-GCP
-This is the Project 1 for IDS 721.
+In this project, continuous delivery using CloudBuild feature on Google Cloud Platform is performed. 
